@@ -1,6 +1,6 @@
 {
     "name": "nictiz.fhir.nl.stu3.images",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "canonical": null,
     "web": "https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpBeelden",
     "title": "Nictiz FHIR NL STU3 Images",
@@ -23,6 +23,6 @@
     "canonicals": null,
     "dependencies": {
         "hl7.fhir.r3.core": "3.0.2",
-        "nictiz.fhir.nl.stu3.zib2017": "2.0.x"
+        "nictiz.fhir.nl.stu3.zib2017": "^2.0"
     }
 }
