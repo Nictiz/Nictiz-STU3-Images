@@ -2,7 +2,7 @@
     "name": "nictiz.fhir.nl.stu3.images",
     "version": "1.0.1",
     "canonical": null,
-    "web": "https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpBeelden",
+    "url": "https://informatiestandaarden.nictiz.nl/wiki/MedMij:V2020.01/OntwerpBeelden",
     "title": "Nictiz FHIR NL STU3 Images",
     "description": "Nictiz NL package of FHIR STU3 conformance resources for Images.",
     "keywords": [
